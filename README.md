@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankajnishaad
-- 👀 I’m interested in Java Technology & Web Development
+- 👀 I’m interested in Java Technology, Web Development & Graphics Designing
 - 🌱 I’m currently learning B.Tech 
 - 💞️ I’m looking to collaborate on MNC companies 
 - 📫 How to reach me pankajnishad087@gmail.com
